@@ -2,6 +2,7 @@
 
 ## ABOUT
 - 이 프로젝트는 PATH-HACK-MAKERTHON에서 무박 2일동안 만든 작품입니다.
+- 강아지가 짖는 정도에 따라 다르게 반응하는 인공지능 음성 인식 기반의 Smart Toy
 - 이 작품을 창작하게 된 계기는 강아지 혼자 있는 집안에 개 짖는 소리로 인한 소음 발생 문제를 방지하고자 만든 작품입니다.
 - 자세한 동작 원리(`Main/main.py`)는 코드`main.py`를 보면 알 수 있다.
 
@@ -28,8 +29,16 @@
 - DC 모터 2개
 - 3색 LED
 
+## Model
+![toy]()
 ## 동작영상
 - [영상 링크](https://youtube.com/shorts/a16QkHUnHBI)
+
+## Team 
+- 기획자 : 심현지
+- 메이커 : 김해찬, 양호열
+- 개발자 : 윤건우
+- 디자이너 : 김구하
 
 ## LICENSE
 Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
