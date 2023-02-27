@@ -30,7 +30,8 @@
 - 3색 LED
 
 ## Model
-![toy]()
+![toy](https://user-images.githubusercontent.com/97718735/221469904-e8e8112d-6d0e-4c1d-9f41-dbc607718d8f.png)
+
 ## 동작영상
 - [영상 링크](https://youtube.com/shorts/a16QkHUnHBI)
 
