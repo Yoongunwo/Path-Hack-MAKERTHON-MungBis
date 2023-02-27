@@ -38,7 +38,7 @@
 ## 👪 Team 
 - 기획자 : [심현지](https://github.com/Gina-IT)
 - 메이커 : 김해찬, 양호열
-- 개발자 : 윤건우
+- 개발자 : [윤건우](https://github.com/Yoongunwo)
 - 디자이너 : 김구하
 
 ## LICENSE
