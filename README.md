@@ -36,7 +36,7 @@
 - [영상 링크](https://youtube.com/shorts/a16QkHUnHBI)
 
 ## Team 
-- 기획자 : 심현지
+- 기획자 : [심현지](https://github.com/Gina-IT)
 - 메이커 : 김해찬, 양호열
 - 개발자 : 윤건우
 - 디자이너 : 김구하
