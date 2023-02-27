@@ -1,4 +1,4 @@
-# Path-Hack-MAKERTHON-MungBis
+# :dog: Path-Hack-MAKERTHON-MungBis
 
 ## ABOUT
 - 이 프로젝트는 PATH-HACK-MAKERTHON에서 무박 2일동안 만든 작품입니다.
@@ -35,7 +35,7 @@
 ## 동작영상
 - [영상 링크](https://youtube.com/shorts/a16QkHUnHBI)
 
-## Team 
+## 👪 Team 
 - 기획자 : [심현지](https://github.com/Gina-IT)
 - 메이커 : 김해찬, 양호열
 - 개발자 : 윤건우
