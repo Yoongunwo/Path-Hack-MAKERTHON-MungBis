@@ -20,7 +20,7 @@
 ## VERSION
 - 개발 보드 : Raspberry Pi 4 Model B
 - 컴파일러 : Visual Studio
-- 버전 : Python 3.9.2
+- 버전 : Python 3.9.2\
         Raspberry Pi Imager 1.7.3
         
 ## MODULE
