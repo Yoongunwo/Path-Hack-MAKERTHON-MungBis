@@ -30,7 +30,7 @@
 - 3색 LED
 
 ## 이미지
-![toy](https://user-images.githubusercontent.com/97718735/221469904-e8e8112d-6d0e-4c1d-9f41-dbc607718d8f.png)
+<center><img src="https://user-images.githubusercontent.com/97718735/221469904-e8e8112d-6d0e-4c1d-9f41-dbc607718d8f.png" width="300" height="300"></center>
 
 ## 동작영상
 - [영상 링크](https://youtube.com/shorts/a16QkHUnHBI)
